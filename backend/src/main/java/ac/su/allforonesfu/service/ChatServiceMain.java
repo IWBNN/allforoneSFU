@@ -5,7 +5,7 @@ import ac.su.sfu.dto.ChatRoomMap;
 
 @Service
 public class ChatServiceMain {
-    
+
     public void plusUserCnt(String roomId) {
         // Implement logic to increment user count in a room
         // For example: get the room from ChatRoomMap and increment a user count field
